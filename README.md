@@ -1,2 +1,0 @@
-# hindi-dates
-WordPress Plugin
